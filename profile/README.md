@@ -14,4 +14,4 @@ Our flagship bot that unites Discord communities into one. It has multi-server s
     Revolt ones, or link Revolt communities together.</li>
 </ul>
 
-<p align=center><a href="https://discord.gg/a4KpNcARzK">Discord</a> | <a href="https://rvlt.gg/BKEMMWxq">Revolt</a></p>
+<p align=center><a href="https://discord.gg/a4KpNcARzK">Discord</a> | Revolt (coming soon)</p>
