@@ -13,7 +13,7 @@ Our flagship bot that unites Discord communities into one. It has multi-server s
   Unifier for Revolt is an extension for Unifier that allows you to connect Revolt communities. You can connect your Discord communties with 
     Revolt ones, or link Revolt communities together.</li>
   <li><strong>???</strong><br>
-  soon™</li>
+  soon™ (guess it right and you get early access)</li>
 </ul>
 
 <p align=center><a href="https://discord.gg/a4KpNcARzK">Discord</a> | Revolt (coming soon)</p>
