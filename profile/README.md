@@ -4,6 +4,8 @@
   We're UnifierHQ</h1>
 <p align=center>We're a team of hobbyists working on a better way to unite communities on Discord and more.</p>
 
+----
+
 ## Projects
 Most of our projects are currently closed-source, but we plan on making them open-source in the future!
 
@@ -21,6 +23,7 @@ Revolt ones, or link Revolt communities together.
 ### Unifier for Guilded
 Unifier for Guilded is a plugin for Unifier that allows you to connect Guilded communities. It's like Unifier for Revolt, but for Guilded.
 
+----
 
 ## Side projects
 Projects we work on that are either experimental or not as active.
