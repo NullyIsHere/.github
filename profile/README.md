@@ -11,7 +11,7 @@ Most of our projects are currently closed-source, but we plan on making them ope
 Our flagship bot that unites Discord communities into one. It has multi-server support, so you can link even more communities together.
 Multi-platform support is enabled using platform support plugins.
 
-### Unifier Micro
+### [Unifier Micro](https://github.com/UnifierHQ/unifier-micro)
 A memory-efficient light version of Unifier, containing only the core features. Built for small communities that only use Discord.
 
 ### Unifier for Revolt
