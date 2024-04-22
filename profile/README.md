@@ -9,18 +9,18 @@
 ## Projects
 Most of our projects are currently closed-source, but we plan on making them open-source in the future!
 
-### Unifier
+### [Unifier](https://github.com/UnifierHQ/unifier)
 Our flagship bot that unites Discord communities into one. It has multi-server support, so you can link even more communities together.
 Multi-platform support is enabled using platform support plugins.
 
 ### [Unifier Micro](https://github.com/UnifierHQ/unifier-micro)
 A memory-efficient light version of Unifier, containing only the core features. Built for small communities that only use Discord.
 
-### Unifier for Revolt
+### [Unifier for Revolt](https://github.com/UnifierHQ/unifier-revolt)
 Unifier for Revolt is a plugin for Unifier that allows you to connect Revolt communities. You can connect your Discord communties with 
 Revolt ones, or link Revolt communities together.
   
-### Unifier for Guilded
+### [Unifier for Guilded](https://github.com/UnifierHQ/unifier-guilded)
 Unifier for Guilded is a plugin for Unifier that allows you to connect Guilded communities. It's like Unifier for Revolt, but for Guilded.
 
 ----
