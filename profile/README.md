@@ -17,11 +17,11 @@ Multi-platform support is enabled using platform support plugins.
 A memory-efficient light version of Unifier, containing only the core features. Built for small communities that only use Discord.
 
 ### [Unifier for Revolt](https://github.com/UnifierHQ/unifier-revolt)
-Unifier for Revolt is a plugin for Unifier that allows you to connect Revolt communities. You can connect your Discord communties with 
+Unifier Revolt Support is a plugin for Unifier that allows you to connect Revolt communities. You can connect your Discord communties with 
 Revolt ones, or link Revolt communities together.
   
 ### [Unifier for Guilded](https://github.com/UnifierHQ/unifier-guilded)
-Unifier for Guilded is a plugin for Unifier that allows you to connect Guilded communities. It's like Unifier for Revolt, but for Guilded.
+Unifier Guilded Support is a plugin for Unifier that allows you to connect Guilded communities. It's like Unifier for Revolt, but for Guilded.
 
 ----
 
