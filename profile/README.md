@@ -7,7 +7,7 @@
 ----
 
 ## Projects
-Most of our projects are currently closed-source, but we plan on making them open-source in the future!
+We have open source projects made to connect you and your communities!
 
 ### [Unifier](https://github.com/UnifierHQ/unifier)
 Our flagship bot that unites Discord communities into one. It has multi-server support, so you can link even more communities together.
