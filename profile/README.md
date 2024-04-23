@@ -31,4 +31,6 @@ Projects we work on that are either experimental or not as active.
 ### Discord-Nerimity playground
 We're experimenting with [Nerimity](https://nerimity.com/) API to see how we can use it with Discord and others in the future.
 
+----
+<h3 align=center>🔗 Socials</h3>
 <p align=center><a href="https://discord.gg/a4KpNcARzK">Discord</a> | Revolt (coming soon) | Guilded (coming soon)</p>
