@@ -2,7 +2,8 @@
   <img width=64 src=https://github.com/UnifierHQ/unifier-micro/assets/41323182/16f7ca32-bc5a-47d2-89ae-50ebef8ef70d>
   
   We're UnifierHQ</h1>
-<p align=center>We're a team of hobbyists working on a better way to unite communities on Discord and more.</p>
+<p align=center>We're a team of hobbyists working on a better way to unite communities on Discord and more.<br>
+Not an "organization", just a name we use to identify ourselves</p>
 
 ----
 
