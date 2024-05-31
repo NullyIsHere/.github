@@ -1,9 +1,15 @@
 <h1 align=center>
-  <img width=64 src=https://github.com/UnifierHQ/unifier-micro/assets/41323182/16f7ca32-bc5a-47d2-89ae-50ebef8ef70d>
+  <img width=64 src=https://github.com/UnifierHQ/.github/assets/41323182/87190e8c-11b9-4640-9e9e-963cb64b3380>
   
   We're UnifierHQ</h1>
 <p align=center>We're a team of hobbyists working on a better way to unite communities on Discord and more.<br>
 Not an "organization", just a name we use to identify ourselves</p>
+
+> [!NOTE]
+> Yes, this is our new profile picture. No, we won't be changing it back on July, **it's a permanent one**.
+>
+> We want to keep this profile pic, because it creates some distinction between Unifier and the team behind it, and also gives off a "we
+> connect everyone" message.
 
 ----
 
