@@ -55,4 +55,4 @@ yet, but soon (once we actually finish it, that is).
 
 ----
 <h3 align=center>🔗 Socials</h3>
-<p align=center><a href="https://discord.gg/a4KpNcARzK">Discord</a> | Revolt (coming soon) | Guilded (coming soon)</p>
+<p align=center><a href="https://discord.gg/a4KpNcARzK">Discord</a> | Revolt (coming soon)</p>
