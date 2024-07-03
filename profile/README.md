@@ -4,14 +4,14 @@
   
   We're UnifierHQ</h1>
 <p align=center>We're a team of hobbyists working on a better way to unite communities on Discord and more.<br>
-Not an "organization", just a name we use to identify ourselves</p>
+UnifierHQ is not an "organization", just a name we use to identify ourselves</p>
 
 ----
 
 ## Our story (and mission)
-In the past, connecting different communities online on Discord wasn't as easy. This was a problem for us, as we wanted to unite together 
-communities that we were good friends with, so everyone could hang out more easily. There was just no bot cut out for that, the ones that 
-already existed didn't really meet our needs as well as we wanted it to.
+In the past, connecting different communities online on Discord wasn't as easy. This was a problem for us, as we wanted to unite communities
+that we were good friends with, so everyone could hang out more easily. There was just no bot cut out for that, the ones that already existed
+didn't really meet our needs as well as we wanted it to.
 
 So we decided to take it into our own hand ourselves. If no bot can fulfill our needs, we'll make one ourselves. And thus, Unifier was born.
 
