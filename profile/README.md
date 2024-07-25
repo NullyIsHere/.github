@@ -49,12 +49,10 @@ done locally on your machine.
 ## Side projects
 Projects we work on that are either experimental or not as active.
 
-### Discord-Revolt Crossmoji
-We're working on a bot, which will allow you to seamlessly sync emojis between Discord and Revolt.
+### coming soon
+We're planning to make more cross-platform bots outside of Unifier in the future (although they'll be much smaller). Stay tuned!
 
-### Discord-Nerimity playground
-We're experimenting with [Nerimity](https://nerimity.com/) API to see how we can use it with Discord and others in the future. Not open source 
-yet, but soon (once we actually finish it, that is).
+(won't do things Nerimity related, gonna focus on Revolt)
 
 ----
 <h3 align=center>🔗 Socials</h3>
