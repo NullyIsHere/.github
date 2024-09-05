@@ -56,4 +56,7 @@ We're planning to make more cross-platform bots outside of Unifier in the future
 
 ----
 <h3 align=center>🔗 Socials</h3>
-<p align=center><a href="https://discord.gg/a4KpNcARzK">Discord</a> • Revolt (coming soon)</p>
+<p align=center><a href="https://discord.gg/a4KpNcARzK">Discord</a> • 
+  <a href="https://rvlt.gg/xggPeyCT">Revolt</a> • 
+  <a href="https://www.guilded.gg/UnifierHQ">Guilded</a>
+</p>
