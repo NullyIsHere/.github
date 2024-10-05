@@ -5,6 +5,7 @@
   We're UnifierHQ</h1>
 <p align=center>We're a team of hobbyists working on a better way to unite communities on Discord and more.<br>
 UnifierHQ is not an "organization", just a name we use to identify ourselves</p>
+<a href="https://github.com/UnifierTL">Looking for Unifier Community Translations?</a>
 
 ----
 
