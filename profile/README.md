@@ -5,7 +5,7 @@
   We're UnifierHQ</h1>
 <p align=center>We're a team of hobbyists working on a better way to unite communities on Discord and more.<br>
 UnifierHQ is not an "organization", just a name we use to identify ourselves</p>
-<a href="https://github.com/UnifierTL">Looking for Unifier Community Translations?</a>
+
 
 ----
 
@@ -60,4 +60,5 @@ We're planning to make more cross-platform bots outside of Unifier in the future
 <p align=center><a href="https://discord.gg/a4KpNcARzK">Discord</a> • 
   <a href="https://rvlt.gg/xggPeyCT">Revolt</a> • 
   <a href="https://www.guilded.gg/UnifierHQ">Guilded</a>
+  <a href="https://github.com/UnifierTL">Looking for Unifier Community Translations?</a>
 </p>
